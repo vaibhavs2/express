@@ -1,0 +1,1 @@
+export const F_FORM_COLLECTION = 'forms'
